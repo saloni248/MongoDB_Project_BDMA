@@ -14,9 +14,3 @@ This project is a **MongoDB-powered movie database** with an interactive **dashb
 ## 📊 MongoDB Dashboard  
 This repository includes a **MongoDB-based dashboard** that provides interactive data visualization for analyzing movie trends. You can check it out in this repository.  
 
-## 🔧 Installation & Setup  
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/your-username/mongodb-movie-dashboard.git
-cd mongodb-movie-dashboard
-
